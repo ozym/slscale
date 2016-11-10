@@ -5,7 +5,7 @@
 #   CFLAGS : Specify compiler options to use
 #
 
-CFLAGS += -I. -DPACKAGE_VERSION=\"1.0.0\"
+CFLAGS += -I. -DPACKAGE_VERSION=\"1.0.1\"
 
 LDFLAGS =
 LDLIBS = -ldali -lslink -lmseed -lm
